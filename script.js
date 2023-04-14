@@ -34,7 +34,6 @@ class Sensei extends Ninja{
         this.drinkSake();
         console.log("Lo que un programador puede hacer en un mes, dos programadores pueder hacerlo en dos meses");
     }
-
 }
 const superSensei = new Sensei("Master Splinter");
 superSensei.speakWisdom();
